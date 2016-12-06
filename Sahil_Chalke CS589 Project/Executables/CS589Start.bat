@@ -1,0 +1,1 @@
+java -Xms512M -Xmx512M -jar CS589.jar -o true
